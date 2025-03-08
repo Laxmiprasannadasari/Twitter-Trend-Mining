@@ -1,2 +1,6 @@
-# Twitter-Trend-Mining
- A Python project to analyze trending topics on Twitter using NLP &amp; data mining techniques.)
+git init
+git add .
+git commit -m "Initial commit - Twitter Trend Mining project"
+git branch -M main
+git remote add origin https://github.com/yourusername/Twitter-Trend-Mining.git
+git push -u origin main
